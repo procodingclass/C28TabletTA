@@ -1,1 +1,1 @@
-# C28TabletTA
+# Tablet-SPCK-PRO-C28-Teacher-Activity
